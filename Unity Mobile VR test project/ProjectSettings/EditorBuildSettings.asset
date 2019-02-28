@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 090ac0ba882f3af4e93a50d08d4bef93
+    path: Assets/GoogleVR/Demos/Scenes/HelloVR.unity
+    guid: bb36d2905dc634f1c9eecb35beecaca8
   m_configObjects: {}
